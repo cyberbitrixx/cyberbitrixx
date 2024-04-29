@@ -7,7 +7,7 @@
   
 - 🔭 Studying **Economical cybernetics and Programming** at TSATU, Ukraine
 
-- 🦾 I’m currently learning **Firebase and Coordinator Design Pattern**
+- 🦾 I’m currently learning **Firebase, Docker and Coordinator Design Pattern**
 
 - 💬 Ask me about **iOS SDK**
 
