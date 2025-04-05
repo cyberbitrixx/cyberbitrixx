@@ -17,7 +17,7 @@
 
 ##
 ### How to reach me? Glad that you asked!
-💭 Follow my software engineering journey on [LinkedIn](https://www.linkedin.com/in/sophie-dev/), or - reach out directly via [email](shchukinasofiya@gmail.com).
+💭 Follow my software engineering journey on [LinkedIn](https://www.linkedin.com/in/sophie-dev/), or - reach out directly via email: shchukinasofiya@gmail.com
 
 <!--
 **cyberbitrixx/cyberbitrixx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
