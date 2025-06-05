@@ -1,13 +1,13 @@
 ## Hi, I'm Sophie. A solo iOS Developer. Welcome to my GitHub 👩🏽‍💻
 🔭 I’m currently building my personal iOS project from scratch to help people learn and practice new words in different languages across the world - [Dictionary](https://github.com/cyberbitrixx/Dictionary) 💙
 
-🌱 I’m currently learning to implement local data persistence with UserDefaults and trying to get better in managing data and making my apps more secure.
+🌱 I’m currently learning Objective-C and trying to get better in managing data and making my apps more secure.
 <br><br>
 
 ##
 ### My stack:
 
-- 🐥 Languages: **Swift**
+- 🐥 Languages: **Swift, Objective-C**
 - 📱 UI and Navigation: **SwiftUI, UIKit**
 - 🗝️ Data Managment and Persistence: **Core Data, Firebase, JSON decoding**
 - ⚙️ Architecture and Advanced Navigation FLow: **MVVM, MVC, Coordinator**
