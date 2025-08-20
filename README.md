@@ -1,5 +1,7 @@
 ## Hi, I'm Sophie. A solo iOS Developer. Welcome to my GitHub 👩🏽‍💻
-🔭 I’m currently building my personal iOS project from scratch to help people learn and practice new words in different languages across the world - [Dictionary](https://github.com/cyberbitrixx/Dictionary) 💙
+🔭 I’m currently building:
+- iOS project from scratch to help people learn and practice new words in different languages across the world - [Dictionary](https://github.com/cyberbitrixx/Dictionary) 💙
+- Objective-C based app to manage groceries and plan meals - [Gabe's-Fridge](https://github.com/cyberbitrixx/Gabe-s-Fridge).
 
 🌱 I’m currently learning Objective-C and trying to get better in managing data and making my apps more secure.
 <br><br>
