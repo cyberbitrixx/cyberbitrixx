@@ -1,7 +1,6 @@
 ## Hi, I'm Sophie. A solo iOS Developer. Welcome to my GitHub 👩🏽‍💻
 🔭 I’m currently building iOS app for the newest Saint Pete run club in FL and studying iOS Lead Essentials course to improve my skills and expertise. Follow along for the journey.
 
-<br><br>
 
 ##
 ### My stack:
