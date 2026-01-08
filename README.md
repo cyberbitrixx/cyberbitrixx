@@ -1,9 +1,6 @@
 ## Hi, I'm Sophie. A solo iOS Developer. Welcome to my GitHub 👩🏽‍💻
-🔭 I’m currently building:
-- iOS project from scratch to help people learn and practice new words in different languages across the world - [Dictionary](https://github.com/cyberbitrixx/Dictionary) 💙
-- Objective-C based app to manage groceries and plan meals - [Gabe's-Fridge](https://github.com/cyberbitrixx/Gabe-s-Fridge).
+🔭 I’m currently building iOS app for the newest Saint Pete run club in FL and studying iOS Lead Essentials course to improve my skills and expertise. Follow along for the journey.
 
-🌱 I’m currently learning Objective-C and trying to get better in managing data and making my apps more secure.
 <br><br>
 
 ##
@@ -18,7 +15,7 @@
 <br><br>
 
 ##
-### How to reach me? Glad that you asked!
+### How to reach me?
 💭 Follow my software engineering journey on [LinkedIn](https://www.linkedin.com/in/sophie-dev/), or - reach out directly via email: shchukinasofiya@gmail.com
 
 <!--
